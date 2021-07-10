@@ -1,4 +1,4 @@
-# Read Me
+# 最初に読んでくださいね(Read Me)
 #### 2021/7/10 の Power Automate Desktop 勉強会のハンズオンで使用する資料です。
 
 
